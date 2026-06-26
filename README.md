@@ -20,3 +20,6 @@ This project was developed as part of BCA curriculum. The complete coding and im
 
 ## College
 Mahila College, Veer Kunwar Singh University, Ara
+
+## Current Status
+Project is under active development. Implementing responsive UI and performance optimizations.
